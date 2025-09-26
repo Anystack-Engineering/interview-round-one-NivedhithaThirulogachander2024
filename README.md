@@ -135,3 +135,11 @@ A repo containing:
 - ✅ Edge-case coverage (invalid email, empty lines, non-positive qty/price)  
 - ✅ Clean code & structure in tests (naming, small helpers OK)  
 - ✅ Bonus: property-based tests, schema validation (e.g., JSON Schema), or parameterized tests
+
+
+# SDET Coding Test – JSON Validation & Extraction
+
+## Setup
+```bash
+pip install -r requirements.txt
+pytest -v
