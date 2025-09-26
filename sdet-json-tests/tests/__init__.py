@@ -1,7 +1,3 @@
----
-
-## 📄 orders.json (sample based on your screenshot)
-```json
 {
   "orders": [
     {
